@@ -8,7 +8,7 @@ on:
 
 jobs:
   sync-maintainers:
-    if: github.repository == 'catppuccin/userstyles'
+    if: github.repository == 'Reserio/catppuccin-userstyles'
     runs-on: ubuntu-latest
 
     steps:
